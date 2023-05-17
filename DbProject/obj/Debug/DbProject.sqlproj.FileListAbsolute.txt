@@ -1,0 +1,10 @@
+C:\Users\Coditas\source\repos\Solution1\DbProject\bin\Debug\DbProject.dacpac
+C:\Users\Coditas\source\repos\Solution1\DbProject\bin\Debug\DbProject.dll
+C:\Users\Coditas\source\repos\Solution1\DbProject\bin\Debug\DbProject.pdb
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\DbProject.sqlproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\Model.xml
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\refactor.xml
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\postdeploy.sql
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\predeploy.sql
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\DbProject.dll
+C:\Users\Coditas\source\repos\Solution1\DbProject\obj\Debug\DbProject.pdb
